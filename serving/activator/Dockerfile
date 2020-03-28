@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:48e669a1ddf2c56a44e67412dcb713baecb4a45683575f693c958cebb9858641

@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/channel_broker@sha256:3178a48774ae2ddb17983e94ae44c779773cb016d51d20590421ceb571e6f79b
